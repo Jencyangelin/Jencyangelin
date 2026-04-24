@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Jencyangelin/Jencyangelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jency Angeline, an aspiring Software Developer from India 🇮🇳  
 
-Here are some ideas to get you started:
+I enjoy building real-world applications using Python and Web Technologies.  
+Currently focused on improving my skills and creating impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- Python 🐍
+- SQL 🗄️
+- HTML, CSS, JavaScript 🌐  
+- Basic AI & Data Analytics 🤖  
+
+---
+
+## 🚀 What I'm Doing
+- Building an **Education Management System**
+- Working on **AI-based projects** like Spam Classifier & Fake News Detector  
+- Learning and improving problem-solving skills daily  
+
+---
+
+## 📌 Projects
+- 🔹 Spam Classifier (Machine Learning)
+- 🔹 Fake News Detector
+- 🔹 Education Management System (Web Project)
+
+---
+
+## 🎯 Goals
+- Get a Software Developer role in a top IT company  
+- Improve coding and real-world project skills  
+- Grow into a strong full-stack developer  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/yourname  
+- GitHub: https://github.com/yourusername  
+
+---
+
+## ⚡ Fun Facts
+- I love learning new technologies  
+- Interested in AI & Software Development  
+- Always trying to improve every day 🚀  
