@@ -37,8 +37,8 @@ Currently focused on improving my skills and creating impactful projects.
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourname  
-- GitHub: https://github.com/yourusername  
+- LinkedIn: https://www.linkedin.com/in/jency-angelin-086016307  
+- GitHub: https://github.com/Jencyangelin  
 
 ---
 
