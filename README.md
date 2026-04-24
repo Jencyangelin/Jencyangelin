@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Jency Angeline, an aspiring Software Developer from India 🇮🇳  
+I'm Jency Angelin, an aspiring Software Developer from India 🇮🇳  
 
 I enjoy building real-world applications using Python and Web Technologies.  
 Currently focused on improving my skills and creating impactful projects.
